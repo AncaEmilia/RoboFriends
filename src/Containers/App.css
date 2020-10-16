@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bilderberg Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bilderberg Regular'), url('Bilderberg-X3red.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Bilderberg Regular';
+    font-weight: 200;
+    color: white;
+}
+
